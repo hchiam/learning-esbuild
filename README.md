@@ -1,21 +1,23 @@
-# Learning template
+# Learning [`esbuild`](https://github.com/evanw/esbuild)
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-<!-- Add reference link(s) here -->
+<https://github.com/evanw/esbuild>
+
+<https://esbuild.github.io/getting-started>
 
 ## From scratch
 
 Using [`yarn`](https://github.com/hchiam/learning-yarn):
 
 ```bash
-yarn add 
+yarn add
 ```
 
 Or with `npm`:
 
 ```bash
-npm install 
+npm install
 ```
 
 And then:
