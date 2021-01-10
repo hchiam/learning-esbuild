@@ -4,6 +4,8 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 <https://github.com/evanw/esbuild>
 
+Faster than [parcel](https://github.com/hchiam/learning-parcel), [webpack](https://github.com/hchiam/learning-webpack), and rollup?
+
 <https://esbuild.github.io/getting-started>
 
 ## From scratch
