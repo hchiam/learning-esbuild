@@ -54,3 +54,14 @@ Running the package.json script with `yarn build` or `npm run build` can get har
 ```bash
 node more-sophisticated-build.js
 ```
+
+## Further learning
+
+<https://github.com/IlmariKu/esbuild-react-app>
+
+```bash
+npx esbuild-react-app
+npm i
+npm start
+# npm run build
+```
