@@ -33,19 +33,19 @@ And then create a file app.jsx and then run this:
 node out.js # <h1 data-reactroot="">Hello, world!</h1>
 ```
 
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
+## Starting by testing out this repo
 
 Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && yarn;
+git clone https://github.com/hchiam/learning-esbuild.git && cd learning-esbuild && yarn;
 yarn build
 ```
 
 Or with `npm`: (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && npm install;
+git clone https://github.com/hchiam/learning-esbuild.git && cd learning-esbuild && npm install;
 npm run build
 ```
 
