@@ -29,8 +29,7 @@ npm install esbuild react react-dom
 And then create a file app.jsx and then run this:
 
 ```bash
-./node_modules/.bin/esbuild app.jsx --bundle --outfile=out.js
-# ./node_modules/.bin/esbuild app.jsx --bundle --outfile=out.js --loader:.js=jsx
+./node_modules/.bin/esbuild app.jsx --bundle --outfile=out.js --define:process.env.NODE_ENV=\"production\"
 node out.js # <h1 data-reactroot="">Hello, world!</h1>
 ```
 
