@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.28.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
